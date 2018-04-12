@@ -19,3 +19,10 @@ Dale 'Next' o 'Siguiente' e ingresa los siguientes datos! Recuerda ponerle en le
 
 Selecciona el archivo 'Main Story Board' 
 <img width="253" alt="screen shot 2018-04-11 at 20 04 35" src="https://user-images.githubusercontent.com/17911474/38651082-dc56598c-3dc4-11e8-8036-3898d0a9b63c.png">
+
+Crea 1 etiqueta con '00:00' y 3 botones con **Start Stop y Reset**
+
+<img width="930" alt="screen shot 2018-04-11 at 20 15 47" src="https://user-images.githubusercontent.com/17911474/38651167-58dd6e8c-3dc5-11e8-8228-5f97b5903c30.png">
+
+
+El resultado debe de quedar así 
