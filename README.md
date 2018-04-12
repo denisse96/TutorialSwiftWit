@@ -16,3 +16,6 @@ Dale 'Next' o 'Siguiente' e ingresa los siguientes datos! Recuerda ponerle en le
 
 
 ## Crear los botones 
+
+Selecciona el archivo 'Main Story Board' 
+<img width="253" alt="screen shot 2018-04-11 at 20 04 35" src="https://user-images.githubusercontent.com/17911474/38651082-dc56598c-3dc4-11e8-8036-3898d0a9b63c.png">
