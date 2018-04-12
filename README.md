@@ -11,3 +11,8 @@ Abre Xcode crea un nuevo proyecto y selecciona Single-View Application
 
 Dale 'Next' o 'Siguiente' e ingresa los siguientes datos! Recuerda ponerle en lenguaje **Swift** y dispositivos **iPhone**
 
+
+![static1 squarespace-1](https://user-images.githubusercontent.com/17911474/38650724-0ed91de2-3dc3-11e8-92ff-b4b6cada3915.png)
+
+
+## Crear los botones 
