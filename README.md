@@ -34,3 +34,9 @@ El resultado debe de quedar así
 
 
 ![static1 squarespace-2](https://user-images.githubusercontent.com/17911474/38651315-30878354-3dc6-11e8-9f17-19ef20cb2511.png)
+
+Asegúrate de poner todos los ajustes para que no se muevan los botones 
+
+
+
+
