@@ -122,5 +122,7 @@ func UpdateTimer() {
 ```
 
 Compila y corre el proyecto debe de quedar algo así: 
+
+
 ![static1 squarespace-7](https://user-images.githubusercontent.com/17911474/38714378-84a2310c-3e9b-11e8-81e2-95b1b6aa2df3.png)
 
